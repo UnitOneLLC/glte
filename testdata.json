@@ -1,0 +1,683 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - ",
+    "totalResults": "1680",
+    "searchTerms": "",
+    "count": 10,
+    "startIndex": 1,
+    "language": "lang_en",
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006279963128323602481:htvm83kav-u",
+    "orTerms": "warming \"fossil fuel\" renewable pipeline solar \"offshore wind\" transit divestment greenhouse carbon",
+    "dateRestrict": "d2"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ",
+    "totalResults": "1680",
+    "searchTerms": "",
+    "count": 10,
+    "startIndex": 11,
+    "language": "lang_en",
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006279963128323602481:htvm83kav-u",
+    "orTerms": "warming \"fossil fuel\" renewable pipeline solar \"offshore wind\" transit divestment greenhouse carbon",
+    "dateRestrict": "d2"
+   }
+  ]
+ },
+ "context": {
+  "title": "Boston Region Newspapers"
+ },
+ "searchInformation": {
+  "searchTime": 0.332353,
+  "formattedSearchTime": "0.33",
+  "totalResults": "1680",
+  "formattedTotalResults": "1,680"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Boston to join other cities to collectively buy energy from renewable ...",
+   "htmlTitle": "Boston to join other cities to collectively buy energy from \u003cb\u003erenewable\u003c/b\u003e ...",
+   "link": "https://www.bostonglobe.com/metro/2018/06/06/city-hosts-mayors-walsh-announce-energy-initiative-climate-summit/fgRdVLQTsrz5u5noTBv3YM/story.html",
+   "displayLink": "www.bostonglobe.com",
+   "snippet": "... energy and open space, said the initiative could lower costs for renewable, \nsolar energy, and help the city accomplish its goals of going carbon-neutral by \n2050.",
+   "htmlSnippet": "... energy and open space, said the initiative could lower costs for \u003cb\u003erenewable\u003c/b\u003e, \u003cbr\u003e\n\u003cb\u003esolar\u003c/b\u003e energy, and help the city accomplish its goals of going \u003cb\u003ecarbon\u003c/b\u003e-neutral by \u003cbr\u003e\n2050.",
+   "formattedUrl": "https://www.bostonglobe.com/metro/2018/06/06/city.../story.html",
+   "htmlFormattedUrl": "https://www.bostonglobe.com/metro/2018/06/06/city.../story.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "187",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfawhWJSsufWhQG1zbASLRhCO31tPOz3A2MLgsSnFTAjrlaTjovoLBZoVy"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "210",
+      "eomportal-id": "109633",
+      "eomportal-loid": "4.5.2404345028",
+      "eomportal-uuid": "bd9eab5c-69e8-11e8-be05-6785e77d7d69",
+      "eomportal-lastupdate": "Fri Jun 08 12:36:05 EDT 2018",
+      "og:type": "article",
+      "og:description": "Austin Blackmon, the city’s chief of environment, energy and open space, said the initiative could lower costs for renewable, solar energy, and help the city accomplish its goals of going carbon-neutral by 2050.",
+      "og:title": "Boston to join other cities to collectively buy energy from renewable sources - The Boston Globe",
+      "og:site_name": "BostonGlobe.com",
+      "fb:admins": "100001044693856",
+      "fb:app_id": "103933749691726",
+      "fb:pages": "5637143257",
+      "article:publisher": "https://www.facebook.com/globe",
+      "article:content_tier": "metered",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "//c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/mstile-144x144.png",
+      "theme-color": "#ffffff",
+      "twitter:account_id": "95431448",
+      "news_keywords": "renewable energy,martin walsh,climate,summit,mayor's conference, Martin J Walsh, Sheryl  Sandberg,Boston University, Boston Medical Center, Harvard Medical School",
+      "og:url": "https://www.bostonglobe.com/metro/2018/06/06/city-hosts-mayors-walsh-announce-energy-initiative-climate-summit/fgRdVLQTsrz5u5noTBv3YM/story.html",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "BostonGlobe",
+      "og:image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/05/23/BostonGlobe.com/Metro/Images/776e2b21bc2c4e9b990dfb192965fc55-776e2b21bc2c4e9b990dfb192965fc55-7143.jpg",
+      "author": "Milton J. Valencia - Reporter",
+      "authorlist": "Milton J. Valencia",
+      "master-uuid": "d49e256c-69b6-11e8-808f-692041aa6de8",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "newsarticle": [
+     {
+      "inlanguage": "en-US",
+      "genre": "news",
+      "articlesection": "Metro",
+      "headline": "Power brokers: Boston to join other cities to collectively buy energy from renewable sources",
+      "name": "Milton J. Valencia",
+      "datepublished": "2018-06-07 01:01",
+      "articlebody": "At the start of a series of conferences involving mayors from across the country, Mayor Martin J. Walsh plans to announce Thursday an effort to team up with cities from Orlando to Los Angeles..."
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/05/23/BostonGlobe.com/Metro/Images/776e2b21bc2c4e9b990dfb192965fc55-776e2b21bc2c4e9b990dfb192965fc55-7143.jpg",
+      "creator": "Elise Amendola",
+      "description": "Boston Mayor Martin J. Walsh is scheduled to speak at the International Mayors Climate Summit at Boston University on Thursday.",
+      "caption": "Boston Mayor Martin J. Walsh is scheduled to speak at the International Mayors Climate Summit at Boston University on Thursday."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/05/23/BostonGlobe.com/Metro/Images/776e2b21bc2c4e9b990dfb192965fc55-776e2b21bc2c4e9b990dfb192965fc55-7143.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boston, other cities work to curb renewable energy costs - News ...",
+   "htmlTitle": "Boston, other cities work to curb \u003cb\u003erenewable\u003c/b\u003e energy costs - News ...",
+   "link": "http://www.telegram.com/news/20180607/boston-other-cities-work-to-curb-renewable-energy-costs",
+   "displayLink": "www.telegram.com",
+   "snippet": "BOSTON - Houston, Chicago, Los Angeles and other major cities have joined \nBoston to explore a potentially massive renewable energy procurement, Boston ...",
+   "htmlSnippet": "BOSTON - Houston, Chicago, Los Angeles and other major cities have joined \u003cbr\u003e\nBoston to explore a potentially massive \u003cb\u003erenewable\u003c/b\u003e energy procurement, Boston&nbsp;...",
+   "cacheId": "Ex7k3YB9b7QJ",
+   "formattedUrl": "www.telegram.com/.../boston-other-cities-work-to-curb-renewable-energy- costs",
+   "htmlFormattedUrl": "www.telegram.com/.../boston-other-cities-work-to-curb-\u003cb\u003erenewable\u003c/b\u003e-energy- costs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "293",
+      "height": "172",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWMk1AfPLk-3tYsqPRs7rinuOBF0kRh7yf8YNOB5H4r6J4SG5mSyFK1rRI"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "telegram.com",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "apple-itunes-app": "app-id=1038708742?at=1000lkC&ct=sb-telegram",
+      "google-play-app": "app-id=com.gatehousemedia.id3103",
+      "vf:unique_id": "siteWT-pub2818-6E11BA18-698C-6C03-E053-0100007F91C7",
+      "fb:app_id": "1393680337622798",
+      "tout:article:id": "art-6E11BA18-698C-6C03-E053-0100007F91C7-pub2818",
+      "bt:pubdate": "20180607T14:49:30Z",
+      "bt:moddate": "20180607T14:49:00Z",
+      "bt:author": "Andy Metzger, State House News Service",
+      "twitter:card": "summary_large_image",
+      "twitter:image:src": "http://www.telegram.com/storyimage/WT/20180607/NEWS/180609453/AR/0/AR-180609453.jpg&MaxW=1200&MaxH=630",
+      "og:image": "http://www.telegram.com/storyimage/WT/20180607/NEWS/180609453/AR/0/AR-180609453.jpg",
+      "og:image:width": "2330",
+      "og:image:height": "1367",
+      "twitter:site": "@telegramdotcom",
+      "twitter:title": "Boston, other cities work to curb renewable energy costs",
+      "twitter:description": "BOSTON - Houston, Chicago, Los Angeles and other major cities have joined Boston to explore a potentially massive renewable energy procurement, Boston Mayor Marty Walsh announced Thursday at a climate summit.At the International Mayors Climate Summit in Boston, Walsh urged other mayors to join the initiative. He plans to issue a request for information, likely this summer, aimed at compiling energy demand data from participating cities and asking energy developers for price estimates for",
+      "og:title": "Boston, other cities work to curb renewable energy costs",
+      "og:type": "article",
+      "og:description": "BOSTON - Houston, Chicago, Los Angeles and other major cities have joined Boston to explore a potentially massive renewable energy procurement, Boston",
+      "author": "Andy Metzger, State House News Service"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.telegram.com/storyimage/WT/20180607/NEWS/180609453/AR/0/AR-180609453.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mayor seeks lower renewable energy costs; Kerry faults Trump ...",
+   "htmlTitle": "Mayor seeks lower \u003cb\u003erenewable\u003c/b\u003e energy costs; Kerry faults Trump ...",
+   "link": "http://www.lowellsun.com/todaysheadlines/ci_31932002/mayor-seeks-lower-renewable-energy-costs-kerry-faults",
+   "displayLink": "www.lowellsun.com",
+   "snippet": "Mayor seeks lower renewable energy costs; Kerry faults Trump ... sector leaders \nare trying to meet the goal of reducing greenhouse gases anyway. ... the city to \nbe carbon neutral by 2050 -- requiring increased reliance on renewable energy.",
+   "htmlSnippet": "Mayor seeks lower \u003cb\u003erenewable\u003c/b\u003e energy costs; Kerry faults Trump ... sector leaders \u003cbr\u003e\nare trying to meet the goal of reducing \u003cb\u003egreenhouse\u003c/b\u003e gases anyway. ... the city to \u003cbr\u003e\nbe \u003cb\u003ecarbon\u003c/b\u003e neutral by 2050 -- requiring increased reliance on \u003cb\u003erenewable\u003c/b\u003e energy.",
+   "cacheId": "rR3HXyTDDfsJ",
+   "formattedUrl": "www.lowellsun.com/.../mayor-seeks-lower-renewable-energy-costs-kerry- faults",
+   "htmlFormattedUrl": "www.lowellsun.com/.../mayor-seeks-lower-\u003cb\u003erenewable\u003c/b\u003e-energy-costs-kerry- faults",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWIDdKmpGCQLAo-ZHiGJc13hcXlz0ozUVId-lMc6sSZ-8rNOlRUyLadAFh"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.lowellsun.com/todaysheadlines/ci_31932002/mayor-seeks-lower-renewable-energy-costs-kerry-faults",
+      "twitter:url": "http://www.lowellsun.com/todaysheadlines/ci_31932002/mayor-seeks-lower-renewable-energy-costs-kerry-faults",
+      "og:description": "BOSTON -- Former U.S. Secretary of State John Kerry called the decision by President Donald Trump to pull out of the Paris climate accord a \"tragedy\" Thursday but said states and private sector leaders are trying to meet the goal of reducing",
+      "twitter:description": "BOSTON -- Former U.S. Secretary of State John Kerry called the decision by President Donald Trump to pull out of the Paris climate accord a \"tragedy\" Thursday but said states and private sector leaders are trying to meet the goal of reducing",
+      "og:type": "article",
+      "og:title": "Mayor seeks lower renewable energy costs; Kerry faults Trump",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mayor seeks lower renewable energy costs; Kerry faults Trump",
+      "og:image": "http://extras.mnginteractive.com/live/media/site105/2018/0608/20180608_080103_AP18158666764671.jpg",
+      "twitter:image": "http://extras.mnginteractive.com/live/media/site105/2018/0608/20180608_080103_AP18158666764671.jpg",
+      "y_key": "4ee549a450b79881",
+      "msvalidate.01": "9DAB14005AD5A9FFA4CA0EF58CC794BA",
+      "news_keywords": "Today's Headlines, Today's Headlines news, Lowell Massachusetts Today's Headlines news, Lowell Massachusetts news, Today's Headlines Lowell news, Today's Headlines Massachusetts news, US Today's Headlines news, world Today's Headlines news.",
+      "ag:canon": "LowellSun:article:31932002:view",
+      "sailthru.date": "2018-06-08T09:52:36-0400",
+      "sailthru.author": "By Steve LeBlanc, Associated Press",
+      "sailthru.image.full": "http://extras.mnginteractive.com/live/media/site105/2018/0608/20180608_080103_AP18158666764671.jpg",
+      "sailthru.image.thumb": "http://extras.mnginteractive.com/live/media/site105/2018/0608/20180608_080103_AP18158666764671_300.jpg",
+      "sailthru.title": "Mayor seeks lower renewable energy costs; Kerry faults Trump",
+      "sailthru.section": "Todays Headlines",
+      "sailthru.site": "lowellsun.com",
+      "sailthru.article-section-or-homepage": "article",
+      "sailthru.url": "http://www.lowellsun.com/todaysheadlines/ci_31932002/mayor-seeks-lower-renewable-energy-costs-kerry-faults",
+      "pubdate": "2018-06-08T07:53:58-0600",
+      "startdate": "2018-06-08T07:52:36-0600",
+      "enddate": "2028-06-08T07:52:34-0600",
+      "modificationdate": "2018-06-08T08:02:18-0600",
+      "byline": "By Steve LeBlanc,"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://extras.mnginteractive.com/live/media/site105/2018/0608/20180608_080103_AP18158666764671.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "At climate summit, Boston Mayor Marty Walsh asks cities to join ...",
+   "htmlTitle": "At climate summit, Boston Mayor Marty Walsh asks cities to join ...",
+   "link": "https://www.masslive.com/news/boston/index.ssf/2018/06/at_climate_summit_boston_mayor.html",
+   "displayLink": "www.masslive.com",
+   "snippet": "At climate summit, Boston Mayor Marty Walsh asks cities to join renewable \nenergy ... believes investment in renewable energy could save money, reduce \ncarbon ...",
+   "htmlSnippet": "At climate summit, Boston Mayor Marty Walsh asks cities to join \u003cb\u003erenewable\u003c/b\u003e \u003cbr\u003e\nenergy ... believes investment in \u003cb\u003erenewable\u003c/b\u003e energy could save money, reduce \u003cbr\u003e\n\u003cb\u003ecarbon\u003c/b\u003e&nbsp;...",
+   "cacheId": "lTTmM175mvEJ",
+   "formattedUrl": "https://www.masslive.com/.../at_climate_summit_boston_mayor.html",
+   "htmlFormattedUrl": "https://www.masslive.com/.../at_climate_summit_boston_mayor.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIdMj93OSgNlBJQmR8wzxucndB_z6M6InWJ4cn52t-V64nyT0z8xGfuE"
+     }
+    ],
+    "document": [
+     {
+      "article_title": "At climate summit, Boston Mayor Marty Walsh asks cities to join renewable energy plan",
+      "article_publication_name": "masslive.com",
+      "article_author": "Kristin LaFratta | kristin.lafratta@masslive.com",
+      "article_description": "Mayors from Chicago, Evanston, Houston, Los Angeles and others have already signed onto the initiative.",
+      "image_src": "https://image.masslive.com/home/mass-media/width620/img/mass_river_boston_news/photo/marty-walshjpg-a312d44dae4443a5.jpg",
+      "article_comments": "0",
+      "article_date_original": "06/07/2018",
+      "article_date_updated": "06/07/2018"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100000302287435",
+      "viewport": "width=device-width,initial-scale=1",
+      "vf:owner": "cookie:12583486",
+      "vf:unique_id": "81fe7112d61b634b21733c54c029fb8a",
+      "vf:section": "www",
+      "fb:app_id": "128638450487680",
+      "title": "At climate summit, Boston Mayor Marty Walsh asks cities to join renewable energy plan",
+      "article_publication_name": "masslive.com",
+      "article_author": "Kristin LaFratta | kristin.lafratta@masslive.com",
+      "article_date_original": "Thursday, June 07, 2018,  9:11 AM",
+      "article_date_updated": "Thursday, June 07, 2018,  9:19 AM",
+      "news_keywords": "boston-climate-summit, boston-mayor-marty-walsh, boston-u.s.-cities-climate-initiative, chicago, houston, international-climate-summit, los-angeles, renewable-energy-initiative, news",
+      "article:author": "https://www.facebook.com/masslive/",
+      "article:modified_time": "2018-06-07T13:19:29Z",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "Mayors from Chicago, Evanston, Houston, Los Angeles and others have already signed onto the initiative.",
+      "twitter:image": "https://image.masslive.com/home/mass-media/width620/img/mass_river_boston_news/photo/marty-walshjpg-a312d44dae4443a5.jpg",
+      "twitter:title": "At climate summit, Boston Mayor Marty Walsh asks cities to join renewable energy plan",
+      "twitter:site": "@masslivenews",
+      "twitter:creator": "@kristinlafratta",
+      "og:title": "At climate summit, Boston Mayor Marty Walsh asks cities to join renewable energy plan",
+      "og:description": "Mayors from Chicago, Evanston, Houston, Los Angeles and others have already signed onto the initiative.",
+      "og:site_name": "masslive.com",
+      "og:url": "http://www.masslive.com/news/boston/index.ssf/2018/06/at_climate_summit_boston_mayor.html",
+      "og:type": "article",
+      "og:image": "https://image.masslive.com/home/mass-media/width620/img/mass_river_boston_news/photo/marty-walshjpg-a312d44dae4443a5.jpg",
+      "og:image:width": "600",
+      "og:image:height": "400"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://image.masslive.com/home/mass-media/width620/img/mass_river_boston_news/photo/marty-walshjpg-a312d44dae4443a5.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Recorder - Boston, other cities, to work to curb renewable ...",
+   "htmlTitle": "The Recorder - Boston, other cities, to work to curb \u003cb\u003erenewable\u003c/b\u003e ...",
+   "link": "http://www.recorder.com/Boston-other-cities-to-work-to-curb-renewable-energy-costs-18044818",
+   "displayLink": "www.recorder.com",
+   "snippet": "Another goal is for the city to be carbon neutral by 2050 — which will require ... \nWalsh said the proposal to seek lower renewable energy costs is one way to ... \nvoid in part by reducing reliance on fossil fuels and cutting back on greenhouse \ngas ...",
+   "htmlSnippet": "Another goal is for the city to be \u003cb\u003ecarbon\u003c/b\u003e neutral by 2050 — which will require ... \u003cbr\u003e\nWalsh said the proposal to seek lower \u003cb\u003erenewable\u003c/b\u003e energy costs is one way to ... \u003cbr\u003e\nvoid in part by reducing reliance on fossil fuels and cutting back on \u003cb\u003egreenhouse\u003c/b\u003e \u003cbr\u003e\ngas&nbsp;...",
+   "cacheId": "um1iW6GlsaIJ",
+   "formattedUrl": "www.recorder.com/Boston-other-cities-to-work-to-curb-renewable-energy- costs-18044818",
+   "htmlFormattedUrl": "www.recorder.com/Boston-other-cities-to-work-to-curb-\u003cb\u003erenewable\u003c/b\u003e-energy- costs-18044818",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXvb7EBdn_yc9sOsusmPlaWlMdUHzWyv6qXfDGbF8lwjulX7BQUiQF41ud"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "og:url": "http://www.recorder.com/Boston-other-cities-to-work-to-curb-renewable-energy-costs-18044818",
+      "og:type": "article",
+      "og:title": "Boston, other cities, to work to curb renewable energy costs",
+      "og:description": "BOSTON — Boston Mayor Martin Walsh is hoping to work with other cities to drive down the cost of renewable energy by asking developers for price estimates to meet their collective energy demand.Walsh said the first cities to join the initiative...",
+      "og:image": "http://www.recorder.com/getattachment/ad9e03eb-049d-46ac-b509-0047708fe759/09668c3bc306479780af5230d119a8cd.jpg",
+      "og:locale": "en_US",
+      "og:site_name": "The Recorder",
+      "fb:app_id": "1462058557379155",
+      "article:section": "News/State",
+      "article:published_time": "6/7/2018 9:50:09 PM",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@TheRecorderNews",
+      "twitter:title": "Boston, other cities, to work to curb renewable energy costs",
+      "twitter:description": "BOSTON — Boston Mayor Martin Walsh is hoping to work with other cities to drive down the cost of renewable energy by asking developers for price estimates to meet their collective energy demand.Walsh said the first cities to join the initiative...",
+      "twitter:image": "http://www.recorder.com/getattachment/ad9e03eb-049d-46ac-b509-0047708fe759/attachment.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.recorder.com/getattachment/ad9e03eb-049d-46ac-b509-0047708fe759/09668c3bc306479780af5230d119a8cd.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Researchers say they can capture carbon dioxide from the air ...",
+   "htmlTitle": "Researchers say they can capture \u003cb\u003ecarbon\u003c/b\u003e dioxide from the air ...",
+   "link": "https://www.bostonglobe.com/metro/2018/06/07/researchers-say-they-can-capture-carbon-dioxide-from-air-and-recycle-back-into-fuel/zapNX0GdvWMRoJEYeuy8WJ/story.html",
+   "displayLink": "www.bostonglobe.com",
+   "snippet": "Researchers say they have developed a cost-efficient way to extract carbon \ndioxide ... cities from Orlando to Los Angeles to buy renewable energy in an effort \nto cut ... solar facilities, which will provide clean energy to enable the carbon \ncapture ...",
+   "htmlSnippet": "Researchers say they have developed a cost-efficient way to extract \u003cb\u003ecarbon\u003c/b\u003e \u003cbr\u003e\ndioxide ... cities from Orlando to Los Angeles to buy \u003cb\u003erenewable\u003c/b\u003e energy in an effort \u003cbr\u003e\nto cut ... \u003cb\u003esolar\u003c/b\u003e facilities, which will provide clean energy to enable the \u003cb\u003ecarbon\u003c/b\u003e \u003cbr\u003e\ncapture&nbsp;...",
+   "formattedUrl": "https://www.bostonglobe.com/metro/2018/...carbon.../story.html",
+   "htmlFormattedUrl": "https://www.bostonglobe.com/metro/2018/...\u003cb\u003ecarbon\u003c/b\u003e.../story.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgeBi-AhKFE6Q-OPY8d_minmY2XWTLWgHu7C2m553ghUQgTXT3CjDys14"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "212",
+      "eomportal-id": "934652",
+      "eomportal-loid": "4.5.2425601286",
+      "eomportal-uuid": "4042d868-6a74-11e8-9f11-2d3561a0f82c",
+      "eomportal-lastupdate": "Thu Jun 07 22:02:35 EDT 2018",
+      "og:city": "Cambridge",
+      "og:state": "MA",
+      "og:type": "article",
+      "og:description": "Researchers say they have developed a cost-efficient way to extract carbon dioxide from the air and make fuel from it for cars, trucks, or airplanes.",
+      "og:title": "Researchers say they can capture carbon dioxide from the air — and recycle it back into fuel - The Boston Globe",
+      "og:site_name": "BostonGlobe.com",
+      "fb:admins": "100001044693856",
+      "fb:app_id": "103933749691726",
+      "fb:pages": "5637143257",
+      "article:publisher": "https://www.facebook.com/globe",
+      "article:content_tier": "metered",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "//c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/mstile-144x144.png",
+      "theme-color": "#ffffff",
+      "twitter:account_id": "95431448",
+      "og:url": "https://www.bostonglobe.com/metro/2018/06/07/researchers-say-they-can-capture-carbon-dioxide-from-air-and-recycle-back-into-fuel/zapNX0GdvWMRoJEYeuy8WJ/story.html",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "BostonGlobe",
+      "og:image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/cleanfuel.jpeg",
+      "author": "Martin Finucane - Assistant Metro Editor",
+      "authorlist": "Martin Finucane",
+      "master-uuid": "039d90ae-6a67-11e8-be05-6785e77d7d69",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "newsarticle": [
+     {
+      "inlanguage": "en-US",
+      "genre": "news",
+      "articlesection": "Metro",
+      "headline": "Researchers say they can capture carbon dioxide from the air — and recycle it back into fuel",
+      "name": "Martin Finucane",
+      "datepublished": "2018-06-07 16:59",
+      "articlebody": "Researchers say they have developed a cost-efficient way to extract carbon dioxide from the air and make fuel from it for cars, trucks, or airplanes.The new technology suggests a different..."
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/cleanfuel.jpeg",
+      "description": "A bottle of clean fuel made from carbon extracted from the air.",
+      "caption": "A bottle of clean fuel made from carbon extracted from the air."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/cleanfuel.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LETTER: Gas pipeline leaks are killing Brookline's trees - News ...",
+   "htmlTitle": "LETTER: Gas \u003cb\u003epipeline\u003c/b\u003e leaks are killing Brookline&#39;s trees - News ...",
+   "link": "http://brookline.wickedlocal.com/news/20180608/letter-gas-pipeline-leaks-are-killing-brooklines-trees",
+   "displayLink": "brookline.wickedlocal.com",
+   "snippet": "In addition to killing trees, natural gas is also a powerful greenhouse gas. ... a \nfossil fuel that is 84 times more potent at trapping heat than carbon dioxide.",
+   "htmlSnippet": "In addition to killing trees, natural gas is also a powerful \u003cb\u003egreenhouse\u003c/b\u003e gas. ... a \u003cbr\u003e\n\u003cb\u003efossil fuel\u003c/b\u003e that is 84 times more potent at trapping heat than \u003cb\u003ecarbon\u003c/b\u003e dioxide.",
+   "cacheId": "DqAHAaX8JEcJ",
+   "formattedUrl": "brookline.wickedlocal.com/.../letter-gas-pipeline-leaks-are-killing-brooklines- trees",
+   "htmlFormattedUrl": "brookline.wickedlocal.com/.../letter-gas-\u003cb\u003epipeline\u003c/b\u003e-leaks-are-killing-brooklines- trees",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "198",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNUeSyAG5FcQIvKpIKnmbMOkyiqvGCDwtuFEY2BHtwusCojKLy0tLM-WE"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "Brookline TAB",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "vf:unique_id": "siteWL-pub421-6E235C17-2F59-2A76-E053-0100007F1766",
+      "fb:app_id": "143435942403889",
+      "tout:article:id": "art-6E235C17-2F59-2A76-E053-0100007F1766-pub421",
+      "bt:pubdate": "20180608T13:56:15Z",
+      "bt:moddate": "20180608T13:56:00Z",
+      "twitter:card": "summary_large_image",
+      "twitter:image:src": "http://brookline.wickedlocal.com/storyimage/WL/20180608/NEWS/180607356/AR/0/AR-180607356.jpg&MaxW=1200&MaxH=630",
+      "og:image": "http://brookline.wickedlocal.com/storyimage/WL/20180608/NEWS/180607356/AR/0/AR-180607356.jpg",
+      "og:image:width": "1024",
+      "og:image:height": "794",
+      "twitter:site": "@BrooklineTAB",
+      "twitter:title": "LETTER: Gas pipeline leaks are killing Brookline's trees",
+      "twitter:description": "To the editor:What is a ghost tree?Have you noticed black and white signs and stencils surrounding street trees in Brookline? Nearly 50 volunteers organized by Mothers Out Front Brookline placed these markers on the morning of Saturday, May 12. The purpose of the markers is to raise awareness of the beautiful trees that no longer shade the streets of Brookline.These “Ghost Trees” have been killed by leaking natural gas. Gas suffocates trees by depriving the roots of the oxygen",
+      "og:title": "LETTER: Gas pipeline leaks are killing Brookline's trees",
+      "og:type": "article",
+      "og:description": "To the editor:What is a ghost tree?Have you noticed black and white signs and stencils surrounding street trees in Brookline? Nearly 50 volunteers"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://brookline.wickedlocal.com/storyimage/WL/20180608/NEWS/180607356/AR/0/AR-180607356.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "'misleading' Americans on Paris climate accord",
+   "htmlTitle": "&#39;misleading&#39; Americans on Paris climate accord",
+   "link": "https://www.bostonglobe.com/metro/2018/06/07/john-kerry-accuses-president-trump-misleading-americans-paris-climate-accord/Dabauh88XVRZ5ZlcTyvTDP/story.html",
+   "displayLink": "www.bostonglobe.com",
+   "snippet": "... the United States and China, the world's two largest producers of greenhouse \ngases. ... Boston to join other cities to collectively buy energy from renewable \nsources ... carbon emissions with the goal of curbing the rise of global \ntemperatures. ... that the Paris accord alone will not solve the problem of global \nwarming. But he ...",
+   "htmlSnippet": "... the United States and China, the world&#39;s two largest producers of \u003cb\u003egreenhouse\u003c/b\u003e \u003cbr\u003e\ngases. ... Boston to join other cities to collectively buy energy from \u003cb\u003erenewable\u003c/b\u003e \u003cbr\u003e\nsources ... \u003cb\u003ecarbon\u003c/b\u003e emissions with the goal of curbing the rise of global \u003cbr\u003e\ntemperatures. ... that the Paris accord alone will not solve the problem of global \u003cbr\u003e\n\u003cb\u003ewarming\u003c/b\u003e. But he&nbsp;...",
+   "formattedUrl": "https://www.bostonglobe.com/metro/2018/06/07/john.../story.html",
+   "htmlFormattedUrl": "https://www.bostonglobe.com/metro/2018/06/07/john.../story.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "292",
+      "height": "172",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP26TUs1pIlVOgWPsD2Sx6A-5G47WiSJy_NUwK7Uk0VjUhO0v9n7vy0WrV"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "217",
+      "eomportal-id": "1188191",
+      "eomportal-loid": "4.5.2430955466",
+      "eomportal-uuid": "e6696cde-6a9c-11e8-be05-6785e77d7d69",
+      "eomportal-lastupdate": "Fri Jun 08 02:28:38 EDT 2018",
+      "og:type": "article",
+      "og:description": "The former secretary of state spoke at a panel at Boston University on Thursday.",
+      "og:title": "John Kerry accuses President Trump of ‘misleading’ Americans on Paris climate accord - The Boston Globe",
+      "og:site_name": "BostonGlobe.com",
+      "fb:admins": "100001044693856",
+      "fb:app_id": "103933749691726",
+      "fb:pages": "5637143257",
+      "article:publisher": "https://www.facebook.com/globe",
+      "article:content_tier": "metered",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "//c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/mstile-144x144.png",
+      "theme-color": "#ffffff",
+      "twitter:account_id": "95431448",
+      "news_keywords": "John Kerry, Martin J  Walsh, Donald J  Trump,Boston University, Bank of America Corp, Sierra Club, Twitter,Bank of America Corp|BAC|NYSE",
+      "og:url": "https://www.bostonglobe.com/metro/2018/06/07/john-kerry-accuses-president-trump-misleading-americans-paris-climate-accord/Dabauh88XVRZ5ZlcTyvTDP/story.html",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "BostonGlobe",
+      "og:image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/906b4cad34c947b5a07ca2e5441fdabf-906b4cad34c947b5a07ca2e5441fdabf-0.jpg",
+      "author": "David Abel - Reporter",
+      "authorlist": "David Abel",
+      "master-uuid": "765e74fc-6a56-11e8-9f11-2d3561a0f82c",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "newsarticle": [
+     {
+      "inlanguage": "en-US",
+      "genre": "news",
+      "articlesection": "Metro",
+      "headline": "John Kerry accuses Trump of ‘misleading’ Americans on Paris climate accord",
+      "name": "David Abel",
+      "datepublished": "2018-06-07 21:51",
+      "articlebody": "It wasn’t quite what they originally envisioned.Two years ago, with great fanfare, then-Secretary of State John F. Kerry announced in Beijing that Boston would host an international climate..."
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/906b4cad34c947b5a07ca2e5441fdabf-906b4cad34c947b5a07ca2e5441fdabf-0.jpg",
+      "creator": "Charles Krupa",
+      "description": "Former secretary of state John Kerry (center) gestured while joined by Los Angeles Mayor Eric Garcetti (left) and Bank of America's Vice Chairman Anne Finucane during the Boston Climate Summit...",
+      "caption": "Former secretary of state John Kerry (center) gestured while joined by Los Angeles Mayor Eric Garcetti (left) and Bank of America's Vice Chairman Anne Finucane during the Boston Climate Summit..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/Metro/Images/906b4cad34c947b5a07ca2e5441fdabf-906b4cad34c947b5a07ca2e5441fdabf-0.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mayors can get around the feds in going green - The Boston Globe",
+   "htmlTitle": "Mayors can get around the feds in going green - The Boston Globe",
+   "link": "https://www.bostonglobe.com/opinion/2018/06/07/mayors-can-get-around-feds-going-green/L4Akf8nGuVqFrZzGRLDHpL/story.html",
+   "displayLink": "www.bostonglobe.com",
+   "snippet": "In this May 31, 2018, photo, a solar panel array collects sun light ... of renewable \npower like solar and wind and to reduce greenhouse gas emissions. The tool is ...",
+   "htmlSnippet": "In this May 31, 2018, photo, a \u003cb\u003esolar\u003c/b\u003e panel array collects sun light ... of \u003cb\u003erenewable\u003c/b\u003e \u003cbr\u003e\npower like \u003cb\u003esolar\u003c/b\u003e and wind and to reduce \u003cb\u003egreenhouse\u003c/b\u003e gas emissions. The tool is&nbsp;...",
+   "formattedUrl": "https://www.bostonglobe.com/opinion/2018/06/07/mayors.../story.html",
+   "htmlFormattedUrl": "https://www.bostonglobe.com/opinion/2018/06/07/mayors.../story.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "186",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lXcIMb27O-_1uLKf6WnvtmGTim0KmsPv3IbdssOZuIL7QboFpUIQZSI"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "210",
+      "eomportal-id": "113496",
+      "eomportal-loid": "4.5.2435225187",
+      "eomportal-uuid": "64e4665a-6ad8-11e8-9f11-2d3561a0f82c",
+      "eomportal-lastupdate": "Fri Jun 08 12:37:10 EDT 2018",
+      "og:latitude": "42.3584308",
+      "og:longitude": "-71.0597732",
+      "og:city": "Boston",
+      "og:state": "MA",
+      "og:country": "US",
+      "og:type": "article",
+      "og:description": "Municipal aggregation allows municipalities to choose their own path to renewable energy.",
+      "og:title": "Mayors can get around the feds in going green - The Boston Globe",
+      "og:site_name": "BostonGlobe.com",
+      "fb:admins": "100001044693856",
+      "fb:app_id": "103933749691726",
+      "fb:pages": "5637143257",
+      "article:publisher": "https://www.facebook.com/globe",
+      "article:content_tier": "metered",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "//c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/mstile-144x144.png",
+      "theme-color": "#ffffff",
+      "twitter:account_id": "95431448",
+      "news_keywords": "Deval L Patrick,United States Conference of Mayors",
+      "og:url": "https://www.bostonglobe.com/opinion/2018/06/07/mayors-can-get-around-feds-going-green/L4Akf8nGuVqFrZzGRLDHpL/story.html",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "BostonGlobe",
+      "og:image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/EditorialOpinion/Images/429e512ba9fd41cfbcb165f91c871c8e-429e512ba9fd41cfbcb165f91c871c8e-0.jpg",
+      "master-uuid": "aa012c9e-69b8-11e8-9f11-2d3561a0f82c",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "newsarticle": [
+     {
+      "inlanguage": "en-US",
+      "genre": "news",
+      "articlesection": "Opinion",
+      "headline": "Mayors can get around the feds in going green",
+      "datepublished": "2018-06-08 04:57",
+      "articlebody": "As Mayor Marty Walsh of Boston hosts the annual meeting of the United States Conference of Mayors, many of the mayors bemoan federal policies that undermine local efforts to address climate..."
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/06/07/BostonGlobe.com/EditorialOpinion/Images/429e512ba9fd41cfbcb165f91c871c8e-429e512ba9fd41cfbcb165f91c871c8e-0.jpg",
+      "creator": "Nati Harnik",
+      "description": "A solar panel array collects sunlight in Fremont, Neb., with a power plant seen behind it.",
+      "caption": "A solar panel array collects sunlight in Fremont, Neb., with a power plant seen behind it."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/07/BostonGlobe.com/EditorialOpinion/Images/429e512ba9fd41cfbcb165f91c871c8e-429e512ba9fd41cfbcb165f91c871c8e-0.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Senate tees up bill to boost clean-energy development - News ...",
+   "htmlTitle": "Senate tees up bill to boost clean-energy development - News ...",
+   "link": "http://www.metrowestdailynews.com/news/20180608/senate-tees-up-bill-to-boost-clean-energy-development",
+   "displayLink": "www.metrowestdailynews.com",
+   "snippet": "The bill is sure to please the renewable-energy industry and will likely raise \nconcerns ... could dramatically expand its support of offshore wind, and \ncommercial solar ... to create \"market-based compliance mechanisms\" to achieve \ngreenhouse gas ... state's Global Warming Solutions Act while allowing the \nsecretary of energy ...",
+   "htmlSnippet": "The bill is sure to please the \u003cb\u003erenewable\u003c/b\u003e-energy industry and will likely raise \u003cbr\u003e\nconcerns ... could dramatically expand its support of \u003cb\u003eoffshore wind\u003c/b\u003e, and \u003cbr\u003e\ncommercial \u003cb\u003esolar\u003c/b\u003e ... to create &quot;market-based compliance mechanisms&quot; to achieve \u003cbr\u003e\n\u003cb\u003egreenhouse\u003c/b\u003e gas ... state&#39;s Global \u003cb\u003eWarming\u003c/b\u003e Solutions Act while allowing the \u003cbr\u003e\nsecretary of energy&nbsp;...",
+   "cacheId": "UX5K4cwBF-AJ",
+   "formattedUrl": "www.metrowestdailynews.com/.../senate-tees-up-bill-to-boost-clean-energy- development",
+   "htmlFormattedUrl": "www.metrowestdailynews.com/.../senate-tees-up-bill-to-boost-clean-energy- development",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5KMtsqVnHgMZq3yg9xYD4uEIifS3p_CTWMwrXLWKSNiGEVuV_91kdkxAP"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "MetroWest Daily News, Framingham, MA",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "apple-itunes-app": "app-id=428415791?at=1000lkC&ct=sb-metrowestdailynews",
+      "google-play-app": "app-id=com.spreednews.metrowestdailynews",
+      "news_keywords": "metrowest,milford,wickedlocal",
+      "vf:unique_id": "siteWL-pub297-6E226339-35CD-266B-E053-0100007F923D",
+      "fb:app_id": "143435942403889",
+      "tout:article:id": "art-6E226339-35CD-266B-E053-0100007F923D-pub297",
+      "bt:pubdate": "20180608T11:33:40Z",
+      "bt:moddate": "20180608T11:33:00Z",
+      "bt:keywords": "metrowest,milford,wickedlocal",
+      "bt:author": "Andy Metzger   State House News Service",
+      "twitter:card": "summary",
+      "twitter:image": "http://www.metrowestdailynews.com/Global/images/head/nameplate/metrowestdailynews_logo.png",
+      "og:image": "http://www.metrowestdailynews.com/Global/images/head/nameplate/metrowestdailynews_logo.png",
+      "twitter:site": "@metrowestdaily",
+      "twitter:title": "Senate tees up bill to boost clean-energy development",
+      "twitter:description": "BOSTON - Utilities would need to ramp up renewable-energy purchases, the state could dramatically expand its support of offshore wind, and commercial solar endeavors would be freed from existing restrictions, under legislation the Senate plans to take up next week.The bill is sure to please the renewable-energy industry and will likely raise concerns among other business interests in the electricity sector.The 32-section legislation would also require the state to create \"market-based",
+      "og:title": "Senate tees up bill to boost clean-energy development",
+      "og:type": "article",
+      "og:description": "BOSTON - Utilities would need to ramp up renewable-energy purchases, the state could dramatically expand its support of offshore wind, and commercial",
+      "author": "Andy Metzger   State House News Service"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.metrowestdailynews.com/storyimage/WL/20180607/ENTERTAINMENTLIFE/180608040/AR/0/0/AR-180608040.jpg?Q=75&maxH=400&maxW=600"
+     }
+    ]
+   }
+  }
+ ]
+}

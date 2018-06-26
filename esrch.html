@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+</html>
+<head>
+<script type="text/javascript">
+	function doSearch() {
+	 var element = google.search.cse.element.getElement('searchresults-only0');
+	 if (element) {
+	 	element.execute("news");
+	 }
+	}
+	function onload() {
+		var btn = document.getElementById("search-button");
+		btn.addEventListener("click", doSearch);
+	}
+</script>
+</head>
+<body onload="onload()">
+
+
+<script>
+  (function() {
+    var cx = '006279963128323602481:htvm83kav-u';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<gcse:searchresults-only webSearchQueryAddition="climate emissions renewable pipeline offshore+wind"></gcse:searchresults-only>
+<button id="search-button">Search</button>
+
+
+</body>
+</html>
